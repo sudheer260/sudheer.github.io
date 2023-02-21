@@ -1,0 +1,32 @@
+.heading-blog{
+    text-align: center;
+    margin-top: 10px;
+    font-size: xxx-large;
+    color: #52796f !important;
+}
+
+.blog-card{
+    margin-top: 30px;
+    border-radius: 15px;
+    background-color: #f2f2f2;
+    padding: 50px;
+}
+.blog-title{
+    margin-left: 40px;
+}
+
+.blog-content{
+    margin-left: 40px;
+    margin-right: 40px;
+}
+
+.post-form{
+    margin-top: 100px;
+    background-color: #f2f2f2;
+    padding: 12px; /* Some padding */ 
+    border: 1px solid #ccc; /* Gray border */
+    border-radius: 4px; /* Rounded borders */
+    box-sizing: border-box; /* Make sure that padding and width stays in place */
+    margin-top: 50px; /* Add a top margin */
+    margin-bottom: 16px;
+}
